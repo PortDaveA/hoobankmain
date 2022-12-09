@@ -1,7 +1,7 @@
 {
   "name": "hoobank",
   "private": true,
-  "homepage": "https://portdavea.github.io/hoobankmain/" ,
+  "homepage": "." ,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
